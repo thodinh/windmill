@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [1.182.0](https://github.com/windmill-labs/windmill/compare/v1.181.0...v1.182.0) (2023-10-07)
+
+
+### Features
+
+* add support for aggrid ee ([c4a817a](https://github.com/windmill-labs/windmill/commit/c4a817aeb6590d8972342f815f3cf3b891ea1446))
+* manage cache and init scripts from worker group UI ([#2396](https://github.com/windmill-labs/windmill/issues/2396)) ([2c9ae41](https://github.com/windmill-labs/windmill/commit/2c9ae41706edc6570559d7d83864fb05c846c0c1))
+
+
+### Bug Fixes
+
+* fix aggrid initialization ([9b75e33](https://github.com/windmill-labs/windmill/commit/9b75e33887c3a9c4cac84d648763a6e3b4490fae))
+* **frontend:** Fix tutorial trigger ([#2392](https://github.com/windmill-labs/windmill/issues/2392)) ([cad37bc](https://github.com/windmill-labs/windmill/commit/cad37bc6defa7a42b96fec6ad0a9bcac55d88d51))
+* tarball for workspace export is generated in /tmp/windmill ([f4957d6](https://github.com/windmill-labs/windmill/commit/f4957d66b9bf6124ad3f73912f32cd1ea47b46e2))
+
 ## [1.181.0](https://github.com/windmill-labs/windmill/compare/v1.180.0...v1.181.0) (2023-10-05)
 
 
